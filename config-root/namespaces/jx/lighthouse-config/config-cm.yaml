@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - rajeshgangoni/jenkinsx
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.172.18.255.235.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

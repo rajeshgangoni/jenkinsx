@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: 172.18.255.235.nip.io
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.
