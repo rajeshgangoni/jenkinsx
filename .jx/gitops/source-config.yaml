@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: golang2
+    - name: golang4
     - name: golangapp
     - name: nodeapp1
     scheduler: in-repo
