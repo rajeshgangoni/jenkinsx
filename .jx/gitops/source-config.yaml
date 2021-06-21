@@ -12,6 +12,7 @@ spec:
     - name: golang2
     - name: golang4
     - name: golangapp
+    - name: node-http2
     - name: nodeapp1
     scheduler: in-repo
   slack:
